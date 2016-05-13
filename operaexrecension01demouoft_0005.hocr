@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaexrecension01demouoft_0005.png"; bbox 0 0 1882 3250; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 84 0 361 114">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 84 0 361 114">
+     <span class='ocr_line' id='line_1_1' title="bbox 84 0 361 114; baseline -0.007 1"><span class='ocrx_word' id='word_1_1' title='bbox 84 0 361 114; x_wconf 51' lang='grc' dir='ltr'><strong>ἕεις)</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 327 339 1424 435">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 327 339 1424 435">
+     <span class='ocr_line' id='line_1_2' title="bbox 327 339 1424 435; baseline -0.011 0"><span class='ocrx_word' id='word_1_2' title='bbox 327 339 1424 435; x_wconf 76' lang='lat' dir='ltr'><strong>DEMOSTHENES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 685 859 1080 892">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 685 859 1080 892">
+     <span class='ocr_line' id='line_1_3' title="bbox 685 859 1080 892; baseline -0.008 0"><span class='ocrx_word' id='word_1_3' title='bbox 685 861 751 892; x_wconf 81' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 785 859 1080 892; x_wconf 82' lang='lat' dir='ltr'>RECENSIONE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 443 1119 1322 1174">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 443 1119 1322 1174">
+     <span class='ocr_line' id='line_1_4' title="bbox 443 1119 1322 1174; baseline -0.006 0"><span class='ocrx_word' id='word_1_5' title='bbox 443 1121 836 1174; x_wconf 86' lang='lat' dir='ltr'>GULIELMI</span> <span class='ocrx_word' id='word_1_6' title='bbox 884 1119 1322 1171; x_wconf 82' lang='lat' dir='ltr'>DINDORFII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 676 1824 1108 1865">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 676 1824 1108 1865">
+     <span class='ocr_line' id='line_1_5' title="bbox 676 1824 1108 1865; baseline -0.007 0"><span class='ocrx_word' id='word_1_7' title='bbox 676 1825 1023 1865; x_wconf 83' lang='lat' dir='ltr'><strong>VOLUMEN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1074 1824 1108 1863; x_wconf 93' lang='lat' dir='ltr'><strong>I.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 757 2522 1041 2563">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 757 2522 1041 2563">
+     <span class='ocr_line' id='line_1_6' title="bbox 757 2522 1041 2563; baseline -0.011 0"><span class='ocrx_word' id='word_1_9' title='bbox 757 2522 1041 2563; x_wconf 87' lang='lat' dir='ltr'>OXONII:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 537 2641 1267 2676">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 537 2641 1267 2676">
+     <span class='ocr_line' id='line_1_7' title="bbox 537 2641 1267 2676; baseline -0.008 1"><span class='ocrx_word' id='word_1_10' title='bbox 537 2646 564 2676; x_wconf 89' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_11' title='bbox 595 2644 785 2676; x_wconf 88' lang='lat' dir='ltr'>TYPOGR</span> <span class='ocrx_word' id='word_1_12' title='bbox 786 2642 1136 2675; x_wconf 88' lang='lat' dir='ltr'><strong>AAAAAAAAAA</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1139 2641 1267 2673; x_wconf 88' lang='lat' dir='ltr'>MICO.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
